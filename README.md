@@ -19,7 +19,7 @@
 
 
 
-![Snake animation](https://github.com/braiachef/braiachef/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/braiachef/README.md/blob/output/github-contribution-grid-snake.svg)
 
 
 
