@@ -22,6 +22,6 @@
   
   <h1></h1>
  
-  ![Snake animation](https://github.com/braiachef/braiachef/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/braiachef/braiachef/blob/output/github-contribution-grid-snake.gif)
  
 </div>
